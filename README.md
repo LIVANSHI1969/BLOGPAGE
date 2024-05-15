@@ -59,8 +59,7 @@ DOCTYPE html>
                 <h3>what makes your trip more memorable with us</h3>
                 <details>
                 <summary><a class="btn">read more</a></summary>
-                <p>Himachal Pradesh provides water to both the Indus and Ganges basins. The drainage systems of the region are the Chandra Bhaga or the Chenab, the Ravi, the Beas, the Sutlej, and the Yamuna. These rivers are perennial and are fed by snow and rainfall. They are protected by an extensive cover of natural vegetation.Himachal Pradesh is a northern Indian state in the Himalayas. It's home to scenic mountain towns and resorts such as Dalhousie. Host to the Dalai Lama, Himachal Pradesh has a strong Tibetan presence. This is reflected in its Buddhist temples and monasteries, as well as its vibrant Tibetan New Year celebrations. The regin is also well known for its trekking, climbing and skiing areas.The word Himachal is derived from two Sanskrit words, 'HIMA' (snow) and 'ACHALA' (mountain) , meaning 'snowy-mountains' or "snowy- range"</p>
-                </details>
+  </details>
                 
             </div>
         </div>
@@ -84,7 +83,7 @@ DOCTYPE html>
                 <summary><a class="btn">read more</a></summary>
                 <p>is a region administered by India as a union territory[1] and constitutes an eastern portion of the larger Kashmir region that has been the subject of a dispute between India and Pakistan since 1947 and India and China since 1959.[2] Ladakh is bordered by the Tibet Autonomous Region to the east, the Indian state of Himachal Pradesh to the south, both the Indian-administered union territory of Jammu and Kashmir and the Pakistan-administered Gilgit-Baltistan to the west, and the southwest corner of Xinjiang across the Karakoram Pass in the far north. It extends from the Siachen Glacier in the Karakoram range to the north to the main Great Himalayas to the south.[11][12] The eastern end, consisting of the uninhabited Aksai Chin plains, is claimed by the Indian Government as part of Ladakh, and has been under Chinese control since 1962.[13]
 
-In the past, Ladakh gained importance from its strategic location at the crossroads of important trade routes,[14] but as Chinese authorities closed the borders between Tibet Autonomous Region and Ladakh in the 1960s, international trade dwindled. Since 1974, the Government of India has successfully encouraged tourism in Ladakh. As Ladakh is strategically important, the Indian military maintains a strong presence in the region.</P>
+In the past, Ladakh gained importance from its strategic location at the crossroads of important trade routes,[14] but as Chinese authorities closed the borders between Tibet Autonomous Region and Ladakh in the 1960s, international trade dwinded. Since 1974, the Government of India has successfully encouraged tourism in Ladakh. As Ladakh is strategically important, the Indian military maintains a strong presence in the region.</P>
                    </details>
                 </div>
             </div>
@@ -98,7 +97,7 @@ In the past, Ladakh gained importance from its strategic location at the crossro
                         there also many spiritual retreats that call for a visit.</p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
-                <p>Manali is a town, near Kullu town in Kullu district in the Indian state of Himachal Pradesh.[2] It is situated in the northern end of the Kullu Valley, formed by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of the state capital of Shimla and 544 kilometres (338 mi) northeast of the national capital of New Delhi. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade route through Lahaul (H.P) and Ladakh, over the Karakoram Pass and onto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gateway to the Lahaul and Spiti district as well as the city of Leh in Ladakh.[3]</P>
+                <p>Manali is a town, near Kullu town in ullu district in the Indian state of Himachal Pradesh.[2] It is situated in the northern end of the Kullu Valley, formed by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of th state capital of Shimla and 544 kilometres (338 mi) northeast of the national capital of New Delhi. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade route through Lahaul (H.P) and Ladakh, over the Karakoram Pass and onto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gateway to the Lahaul and Spiti district as well as the city of Leh in Ladakh.[3]</P>
                    </details>
  
                 </div>
