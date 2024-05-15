@@ -76,13 +76,13 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
-                    <p>Ladakh is a cold desert in India. It lies in the Greater Himalayas, on the eastern side of Jammu and Kashmir. It has themighty Karakoram Range in the North and in the south, it is bound by the Zanskar mountains. Many rivers flow through Ladakh.
+
                     </p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
                 <p>is a region administered by India as a union territory[1] ands  constitutes an eastern portion of the larger Kashmir region that has been the subject of a dispute between India and Pakistan since, 1947 and India and China since, 1959.[2] Ladakh is bordered by the Tibet Autonomous Region to the east, the Indian state of Himachal Pradesh to the south, both the Indian-administered union territory of Jammu and Kashmir and the Pakistan-administered Gilgit-Baltistan to the west, and the southwest corner of Xinjiang across the Karakoram Pass in the far north.. It extends from the Siachen Glacier in the of Karakoram range to the north to the main Great Himalayas to the south.[11][12] The eastern end consisting of the uninhabited Aksai Chin plains, is claimed by the Indian Government as part of Ladakh, and has been under Chinese control since 1962.[13]
 
-In the past, Ladakh gained importance from its strategic location at the crossroads of important trade routes,[14] but as Chinese authorities closed the borders between Tibet Autonomous Region and Ladakh and in the 1960s, international trade dwinded. Since 1974, the Government of India has successfully encouraged tourism in Ladakh. As Ladakh is strategically important, the Indian military maintains a strong presence in the region.</P>
+
                    </details>
                 </div>
             </div>
