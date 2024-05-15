@@ -101,7 +101,7 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">SHIMLA</a>
-                    <p>Evergreen forests, rolling valleys, breathtaking lakes and the pleasant Shimla weather are only a few reasons that lend this hill station a unique charm. No doubt, the places to visit in Shimla will leave you with memories of a lifetime.</p>
+                    <p>Evergreen forests, rolling valley, breathtaking lakes and the pleasant Shimla weather are only a few reasons that lend this hill station a unique charm. No doubt, the places to visit in Shimla will leave you with memories of a lifetime.</p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
 
