@@ -233,7 +233,7 @@ section {
     }
 }
 
-@media (max-width:768px) {
+@media (max-width:767px) {
     #menu-btn {
         display: inline-block;
     }
