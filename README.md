@@ -166,7 +166,7 @@ DOCTYPE html>
         </div>
 
     </section>
-    <!-- contact section end-->
+    <!- contact section end->
 
     <!-- footer section starts -->
     <section class="footer">
