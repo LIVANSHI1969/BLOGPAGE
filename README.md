@@ -96,7 +96,7 @@ DOCTYPE html>
                         there also many spiritual retreats that call for a visit.</p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
-                <p>Manali is a town, near Kullu town in ullu district in the Indian state of Himachal Prdesh.[2] It is situated in the northern end of he Kullu Valley, ormd by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of th state capital of Shimla and 544 kilometres (338 mi) northeast of the national apital of New Dl. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade rote through Lahaul (H.P) and Ladakh, over the Karakoram Pass and onto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gateway to the Lahaul and Spiti district as wel as the city of Leh in Ladakh.</P>
+                <p>Manali is a town, near Kullu town in ullu district in the Indian state of Himachal Prdesh.[2] It is situated in the northern end of he Kullu Valley, ormd by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of th state capital of Shimla and 544 kilometres (338 mi) northeast of the national apital of New Dl. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade rote through Lahaul (H.P) and Ladakh, over the Karakoram Pass and onto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gateway to the Lahaul an Spiti district as wel as the city of Leh in Ladakh.</P>
                    </details>
  
                 </div>
