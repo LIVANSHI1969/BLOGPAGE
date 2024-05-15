@@ -223,10 +223,10 @@ section {
 
 @media (max-width:991px) {
     html {
-        font-size: 55%;
+        font-size: 56%;
     }
     .header {
-        padding: 1.5rem 2rem;
+        padding: 1.6rem 2rem;
     }
     section {
         padding: 2rem;
