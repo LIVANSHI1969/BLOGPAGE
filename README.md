@@ -86,7 +86,7 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
-                    <p>Manali is all about an open valley with a deodard and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, but
+                    <p>Manali is all about the open valley with a deodard and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, but
                         there also many spiritual retreats that call for a visit.</p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
