@@ -56,7 +56,7 @@ DOCTYPE html>
                 <img style="border-radius: 5px;" src="https://c1.wallpaperflare.com/preview/220/612/59/spiti-himachal-pradesh-india-himalayas.jpg" alt="">
             </div>
             <div class="content">
-                <h3>what makes your trip more memorable with us</h3>
+                <h3>what makes your trip mores memorable with us</h3>
                 <details>
                 <summary><a class="btn">read more</a></summary>
 
@@ -88,10 +88,6 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
-                    <p>Manali is all about an open valley with ok a deodard and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, but
-                        there also many spiritual retreats that call for a visit.</p>
-                    <details>
-                <summary><a class="btn">read more</a></summary>
 
                    </details>
  
@@ -103,7 +99,7 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">SHIMLA</a>
-                    <p>Evergreen forets, rolling valleys, breathtaking lakes and the pleasant Shimla weather are only a few reasons that lend this hill station a unique charm. No doubt, the places to visit in Shimla will leave you with memories of a lifetime.</p>
+
                     <details>
                 <summary><a class="btn">read more</a></summary>
 
