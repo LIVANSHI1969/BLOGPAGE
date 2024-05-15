@@ -89,7 +89,7 @@ DOCTYPE html>
                     <p>Manali is all about the open valley with a deodard and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, but
                         there also many spiritual retreats that call for a visit.</p>
                     <details>
-                <summary><a class="btn">read more</a></summary>
+                <summary><a class="btn">Read More</a></summary>
 
                    </details>
  
