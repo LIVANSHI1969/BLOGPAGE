@@ -77,20 +77,18 @@ DOCTYPE html>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
 
+
+
                    </details>
                 </div>
             </div>
             <div class="box">
                 <div class="image">
-                    <img style="margin-left: 21px; margin-top: 25px; border-radius: 0%;" src="https://c1.wallpaperflare.com/preview/274/509/162/sunrise-sarchu-ladakh-leh.jpg" alt="">
+                    <img style="margin-left: 22px; margin-top: 26px; border-radius: 0%;" src="https://c1.wallpaperflare.com/preview/274/509/162/sunrise-sarchu-ladakh-leh.jpg" alt="">
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
-                    <p>Manali is all about an open valley with a deoard and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, but
-                        there also many spiritual retreats that call for a visit.</p>
-                    <details>
-                <summary><a class="btn">read more</a></summary>
-                <p>Manali is a town, near Kullu town in ullu district in th Indian state of Himachal Pradesh.[2] It is situated in the northern end of the Kullu Valley, formd by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of th state capital of Shimla and 544 kilometres (338 mi) northeast of the national capital of New Delhi. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade rote through Lahaul (H.P) and Ladakh, over the Karakoram Pass andonto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gatewayto the Lahaul nd Spiti district as wel as the city of Leh in Ladakh.</P>
+
                    </details>
  
                 </div>
@@ -101,7 +99,7 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">SHIMLA</a>
-                    <p>Evergreen forests, rolling valley, breathtaking lakes and the pleasant Shimla weather are only a few reasons that lend this hill station a unique charm. No doubt, the places to visit in Shimla will leave you with memories of a lifetime.</p>
+
                     <details>
                 <summary><a class="btn">read more</a></summary>
 
@@ -126,7 +124,7 @@ DOCTYPE html>
             </div>
             <div class="box">
                 <img src="" alt="" class="quote">
-                <p>where the mountains whisper tales of wanderlust.</p>
+                <p>where the mountais whisper tales of wanderlust.</p>
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPPdP2ekkvYkeDWHwh0ZKp6XdnRagfqIQjw&usqp=CAU" class="user" alt="">
                 <h3>Mahatma Gandhi</h3>
                 
@@ -181,7 +179,7 @@ DOCTYPE html>
             <a href="http://127.0.0.1:5500/cafe.html#contacts">contacts</a>
             <a href="http://127.0.0.1:5500/cafe.html#blogs">blogs</a>
         </div>
-        <div class="credit">created by <span>Kavya Aggarwal,Keshav Kinger,Khushbu</span> | all rights reserved</div>
+        <div class="credit">created by <span>Kavya Aggarwal,Keshav King,Livanshi</span> | all rights reserved</div>
     </section>
     <!-- footer section end-->
 
