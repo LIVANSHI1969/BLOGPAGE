@@ -19,6 +19,7 @@
 
 html {
 
+
     scroll-behavior: smooth;
 }
 
@@ -512,7 +513,7 @@ section {
 }
 
 .footer .links a:hover {
-    background: var(--main-color);
+    background: var(--main-colour);
 }
 
 .footer .credit {

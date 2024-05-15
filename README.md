@@ -77,6 +77,7 @@ DOCTYPE html>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
 
+
                    </details>
                 </div>
             </div>
@@ -126,7 +127,7 @@ DOCTYPE html>
             </div>
             <div class="box">
                 <img src="" alt="" class="quote">
-                <p>where the mountains whisper tales of wanderlust.</p>
+                <p>where the mountais whisper tales of wanderlust.</p>
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPPdP2ekkvYkeDWHwh0ZKp6XdnRagfqIQjw&usqp=CAU" class="user" alt="">
                 <h3>Mahatma Gandhi</h3>
                 
