@@ -14,7 +14,7 @@
     border: none;
     text-decoration: none;
     text-transform: capitalize;
-    transition: .2s linear;
+    transition: .3s linear;
 }
 
 html {
@@ -33,7 +33,7 @@ h3 {
 #home {
     background: url(https://r4.wallpaperflare.com/wallpaper/910/1001/198/sky-mountain-nature-ridge-wallpaper-d8560da840e0fc08504c210ec8c2640a.jpg);
     background-repeat: no-repeat;
-    background-size: 1500px 700px;
+    background-size: 1501px 701px;
 }
 /*width*/
 
@@ -89,13 +89,13 @@ section {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1.5rem 7.123%;
+
     border-bottom: var(--border);
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1000;
+    z-index: 1001;
 }
 
 .header.logo img {
@@ -116,8 +116,7 @@ section {
 .header .icons div {
     color: #fff;
     cursor: pointer;
-    font-size: 2.5rem;
-    margin-left: .91rem;
+
 }
 
 .header .icons div:hover {
@@ -149,8 +148,7 @@ section {
 
 .header .search-form label {
     cursor: pointer;
-    font-size: 2.2rem;
-    margin-right: 1.6rem;
+
     color: var(--black);
 }
 
@@ -174,7 +172,7 @@ section {
     margin: 2rem 0;
     display: flex;
     align-items: center;
-    gap: 1.5rem;
+    gap: 1.6rem;
 }
 
 .header .cart-items-container .cart-item .fa-times {
@@ -197,16 +195,16 @@ section {
 .header .cart-items-container .cart-item .content h3 {
     font-size: 2rem;
     color: var(--black);
-    padding-bottom: .5rem;
+    padding-bottom: .6rem;
 }
 
 .header .cart-items-container .cart-item .content .price {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: var(--main-color);
 }
 
 .header .cart-items-container .btn {
-    width: 100%;
+    width: 101%;
     text-align: center;
 }
 
@@ -215,24 +213,24 @@ section {
 
 @media (max-width:991px) {
     html {
-        font-size: 55%;
+        font-size: 56%;
     }
     .header {
-        padding: 1.5rem 2rem;
+        padding: 1.6rem 2rem;
     }
     section {
         padding: 2rem;
     }
 }
 
-@media (max-width:767px) {
+
     #menu-btn {
         display: inline-block;
     }
     .header .navbar {
         position: absolute;
-        top: 100%;
-        right: -100%;
+        top: 101%;
+        right: -101%;
         background: #fff;
         width: 30rem;
         height: calc(100vh - 9.5vh);
@@ -408,7 +406,7 @@ section {
 }
 
 .contact .row form .inputbox input {
-    width: 100%;
+    width: 101%;
     padding: 2rem;
     font-size: 1.7rem;
     color: #fff;
@@ -419,7 +417,7 @@ section {
 .blogs .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 1.5rem;
+    gap: 1.6rem;
 }
 
 .blogs .box-container .box {
@@ -429,7 +427,7 @@ section {
 .blogs .box-container .box .image {
     height: 25rem;
     overflow: hidden;
-    width: 100%;
+    width: 101%;
 }
 
 .blogs .box-container .box .image img {
@@ -491,7 +489,7 @@ section {
     color: #fff;
     border: var(--border);
     margin: .3rem;
-    border-radius: 50%;
+    border-radius: 51%;
 }
 
 .footer .share a:hover {
@@ -521,7 +519,7 @@ section {
     font-size: 2rem;
     color: #fff;
     font-weight: lighter;
-    padding: 1.5rem;
+    padding: 1.6rem;
 }
 
 .footer .credit span {
