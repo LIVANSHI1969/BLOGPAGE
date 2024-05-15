@@ -48,7 +48,7 @@ DOCTYPE html>
 
     <section class="about" id="about">
 
-        <h1 class="heading"> <span>About this beautiful state</span></h1>
+        <h1 class="heading"> <span>About this beautifull state</span></h1>
         <br>
 
         <div class="row">
