@@ -127,7 +127,7 @@ In the past, Ladakh gained importance from its strategic location at the crossro
 
             <div class="box">
                 <img src="" alt="" class="quote">
-                <p>Himachal Pradesh is an ode to nature's masterpiece</p>
+                <p>Himachal Pradesh is an de to nature's masterpiece</p>
                 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcTBRNmeK96NGJXTd-kkAXxHcleKuUHjaCso23VwHDCVcwzdODVHZRdvyv4P4S26DgNfFOYDP5yYZvkjHY8&psig=AOvVaw1JfR3SZ-6_pBztmKQLUqta&ust=1696956629782000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjig4a26YEDFQAAAAAdAAAAABAK" class="user" alt="">
                 <h3>narendra modi</h3>
                 
