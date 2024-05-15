@@ -2,7 +2,7 @@
     --main-color: #d3ad7f;
     --black: #13131a;
     --bg: #010103;
-    --border: .1rem solid rgba(254, 255, 255, .3);
+
 }
 
 * {
@@ -18,15 +18,15 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 63.5%;
     overflow-x: hidden;
-    scroll-padding-top: 9rem;
+    scroll-padding-top: 8rem;
     scroll-behavior: smooth;
 }
 
 img {
-    margin-left: 40px;
-    border-radius: 50%;
+    margin-left: 41px;
+    border-radius: 52%;
 
 }
 
@@ -50,7 +50,7 @@ html::-webkit-scrollbar-track {
 
 html::-webkit-scrollbar-thumb {
     background: #fff;
-    border-radius: .5rem;
+    border-radius: .6rem;
 }
 
 body {
@@ -58,7 +58,7 @@ body {
 }
 
 section {
-    padding: 2rem 7%;
+    padding: 2rem 8%;
 }
 
 .heading {
@@ -66,7 +66,7 @@ section {
     color: black;
     text-transform: uppercase;
     padding-bottom: 3.5rem;
-    font-size: 4rem;
+    font-size: 5rem;
 }
 
 .heading span {
@@ -78,7 +78,7 @@ section {
     margin-top: 1rem;
     display: inline-block;
     padding: .9rem 3rem;
-    font-size: 1.7rem;
+    font-size: 1.71rem;
     color: #fff;
     background: var(--main-color);
     cursor: pointer;
@@ -103,12 +103,12 @@ section {
 }
 
 .header.logo img {
-    height: 6rem;
+    height: 8rem;
 }
 
 .header .navbar a {
     margin: 0 1rem;
-    font-size: 2rem;
+    font-size: 3rem;
     color: white;
 }
 
@@ -135,7 +135,7 @@ section {
 
 .header .search-form {
     position: absolute;
-    top: 115%;
+    top: 116%;
     right: 7%;
     background: #fff;
     width: 50rem;
@@ -147,8 +147,8 @@ section {
 }
 
 .header .search-form input {
-    height: 100%;
-    width: 100%;
+    height: 101%;
+    width: 101%;
     font-size: 1.6rem;
     color: var(--black);
     padding: 1rem;
@@ -174,7 +174,7 @@ section {
     height: calc(100vh - 9.5rem);
     width: 35rem;
     background: #fff;
-    padding: 0 1.5rem;
+    padding: 0 1.4rem;
 }
 
 .header .cart-items-container .cart-item {
@@ -443,7 +443,7 @@ section {
 .blogs .box-container .box .image img {
     height: 20rem;
     object-fit: cover;
-    width: 90%;
+    width: 91%;
     margin-right: 40rem;
 }
 

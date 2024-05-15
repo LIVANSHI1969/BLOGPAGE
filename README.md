@@ -76,14 +76,13 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
-                    <p>Ladakh is a cold desert in India. It lies in the Great Himalayas, on the eastern side of Jammu and Kashmir. It has the mighty Karakoram Range in the North and in the south, it is bound by the Zanskar of mountains. Several rivers flow
-                        through Ladakh.
+
                     </p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
-                <p>is a region administered by India as a union territory[1] and constitutes an eastern portion of the larger Kashmir region that has been the subject of a dispute between India and Pakistan since 1947 and India and China since 1959.[2] Ladakh is bordered by the Tibet Autonomous Region to the east, the Indian state of Himachal Pradesh to the south, both the Indian-administered union territory of Jammu and Kashmir and the Pakistan-administered Gilgit-Baltistan to the west, and the southwest corner of Xinjiang across the Karakoram Pass in the far north. It extends from the Siachen Glacier in the Karakoram range to the north to the main Great Himalayas to the south.[11][12] The eastern end, consisting of the uninhabited Aksai Chin plains, is claimed by the Indian Government as part of Ladakh, and has been under Chinese control since 1962.[13]
+                <p>is a region administered by India as a union territory[1] ands  constitutes an eastern portion of the larger Kashmir region that has been the subject of a dispute between India and Pakistan since, 1947 and India and China since, 1959.[2] Ladakh is bordered by the Tibet Autonomous Region to the east, the Indian state of Himachal Pradesh to the south, both the Indian-administered union territory of Jammu and Kashmir and the Pakistan-administered Gilgit-Baltistan to the west, and the southwest corner of Xinjiang across the Karakoram Pass in the far north.. It extends from the Siachen Glacier in the of Karakoram range to the north to the main Great Himalayas to the south.[11][12] The eastern end consisting of the uninhabited Aksai Chin plains, is claimed by the Indian Government as part of Ladakh, and has been under Chinese control since 1962.[13]
 
-In the past, Ladakh gained importance from its strategic location at the crossroads of important trade routes,[14] but as Chinese authorities closed the borders between Tibet Autonomous Region and Ladakh in the 1960s, international trade dwinded. Since 1974, the Government of India has successfully encouraged tourism in Ladakh. As Ladakh is strategically important, the Indian miliary maintains a strong presence in the region.</P>
+
                    </details>
                 </div>
             </div>
@@ -93,11 +92,11 @@ In the past, Ladakh gained importance from its strategic location at the crossro
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
-                    <p>Manali is all about an open valley with a deodar and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some fine staying places, but
+                    <p>Manali is all about an open valley with a deodard and pine forest cover, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, but
                         there also many spiritual retreats that call for a visit.</p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
-                <p>Manali is a town, near Kullu town in ullu district in the Indian state of Himachal Pradesh.[2] It is situated in the northern end of the Kullu Valley, formed by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of th state capital of Shimla and 544 kilometres (338 mi) northeast of the national capital of New Delhi. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade route through Lahaul (H.P) and Ladakh, over the Karakoram Pass and onto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gateway to the Lahaul and Spiti district as well as the city of Leh in Ladakh.[3]</P>
+                <p>Manali is a town, near Kullu town in ullu district in the Indian state of Himachal Pradesh.[2] It is situated in the northern end of the Kullu Valley, formd by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of th state capital of Shimla and 544 kilometres (338 mi) northeast of the national capital of New Delhi. With a population of 8,096 people recorded in the 2011 Indian census Manali is the beginning of an ancient trade rote through Lahaul (H.P) and Ladakh, over the Karakoram Pass and onto Yarkand and Hotan in the Tarim Basin of China. Manali is a popular tourist destination in India and serves as the gateway to the Lahaul and Spiti district as wel as the city of Leh in Ladakh.</P>
                    </details>
  
                 </div>
@@ -111,7 +110,7 @@ In the past, Ladakh gained importance from its strategic location at the crossro
                     <p>Evergreen forests, rolling valleys, breathtaking lakes and the pleasant Shimla weather are only a few reasons that lend this hill station a unique charm. No doubt, the places to visit in Shimla will leave you with memories of a lifetime.</p>
                     <details>
                 <summary><a class="btn">read more</a></summary>
-                <p>In 1864, Shimla was declared as the summer capital of British India. After independence, the city became the capital of East Punjab and was later made the capital city of Himachal Pradesh. It is the principal commercial, cultural and educational centre of the state. Small hamlets were recorded before 1815 when British forces took control of the area. The climatic conditions attracted the British to establish the city in the dense forests of the Himalayas. As the summer capital, Shimla hosted many important political meetings including the Simla Deputation of 1906, the Simla Accord of 1914 and the Simla Conference of 1945. After independence, the state of Himachal Pradesh came into being in 1948 as a result of the integration of 28 princely states. Even after independence, the city remained an important political centre, hosting the Simla Agreement of 1972. After the reorganisation of the state of Himachal Pradesh, the existing Mahasu district was named Shiml.</P>
+                <p>In 1864, Shimla was declared as the summer capital of British India. After independence, the city became the capital of East Punjab and was later made the capital city of Himachal Pradesh. It is the principal commercial, cultural and educational centre of the state. Small hamlets were recorded before 1815 when British forces took control of the area. The climatic conditions attracted the British to establish the city in the dense forests of the Himalayas. As the summer capital,Shimla hosted many important political meetings including the Simla Deputation of 1906, the Simla Accord of 1914 and the Simla Conference of 1945. After independence, the state of Himachal Pradesh came into being in 1948 as a result of the integration of 28 princely states. Even after independence, the city remained an important political centre, hosting the Simla Agreement of 1972. After the reorganisation of the state of Himachal Pradesh, the existing Mahasu district was named Shiml.</P>
                    </details>
                 </div>
             </div>
