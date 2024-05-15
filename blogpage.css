@@ -2,7 +2,7 @@
     --main-color: #d3ad7f;
     --black: #13131a;
     --bg: #010103;
-    --border: .1rem solid rgba(255, 255, 255, .3);
+
 }
 
 * {
@@ -18,15 +18,12 @@
 }
 
 html {
-    font-size: 62.2%;
-    overflow-x: hidden;
-    scroll-padding-top: 7rem;
+
     scroll-behavior: smooth;
 }
 
 img {
-    margin-left: 42px;
-    border-radius: 55%;
+
 
 }
 
@@ -50,7 +47,7 @@ html::-webkit-scrollbar-track {
 
 html::-webkit-scrollbar-thumb {
     background: #fff;
-    border-radius: .51rem;
+
 }
 
 body {
@@ -77,8 +74,7 @@ section {
 .btn {
     margin-top: 1.2rem;
     display: inline-block;
-    padding: .9rem 3.1rem;
-    font-size: 1.31rem;
+
     color: #fff;
     background: var(--main-color);
     cursor: pointer;
@@ -103,8 +99,7 @@ section {
 }
 
 .header.logo img {
-    height: 6.1rem;
-}
+
 
 .header .navbar a {
     margin: 0 1rem;
@@ -135,8 +130,7 @@ section {
 
 .header .search-form {
     position: absolute;
-    top: 117%;
-    right: 7.1%;
+
     background: #fff;
     width: 51rem;
     height: 5.1rem;
@@ -147,9 +141,7 @@ section {
 }
 
 .header .search-form input {
-    height: 100%;
-    width: 100%;
-    font-size: 1.7rem;
+
     color: var(--black);
     padding: 1rem;
     text-transform: none;
@@ -174,7 +166,7 @@ section {
     height: calc(100vh - 9.5rem);
     width: 35rem;
     background: #fff;
-    padding: 0 1.5rem;
+    padding: 0 1.4rem;
 }
 
 .header .cart-items-container .cart-item {
@@ -334,6 +326,7 @@ section {
 
 /* review section */
 
+
 .review .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -442,7 +435,7 @@ section {
 .blogs .box-container .box .image img {
     height: 20rem;
     object-fit: cover;
-    width: 90%;
+    width: 91%;
     margin-right: 40rem;
 }
 
