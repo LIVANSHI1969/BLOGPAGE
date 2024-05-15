@@ -72,7 +72,7 @@ DOCTYPE html>
         <div class="box-container">
             <div class="box">
                 <div class="image">
-                    <img style="margin-left: 21px; margin-top: 25px; border-radius: 0%;" src="https://c4.wallpaperflare.com/wallpaper/61/316/24/clouds-lake-rain-india-wallpaper-preview.jpg" alt="">
+                    <img style="margin-left: 21px; margin-top: 26px; border-radius: 0%;" src="https://c4.wallpaperflare.com/wallpaper/61/316/24/clouds-lake-rain-india-wallpaper-preview.jpg" alt="">
                 </div>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
