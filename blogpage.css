@@ -239,8 +239,8 @@ section {
     }
     .header .navbar {
         position: absolute;
-        top: 100%;
-        right: -100%;
+        top: 101%;
+        right: -101%;
         background: #fff;
         width: 30rem;
         height: calc(100vh - 9.5vh);
