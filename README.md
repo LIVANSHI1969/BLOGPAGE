@@ -189,7 +189,7 @@ In the past, Ladakh gained importance from its strategic location at the crossro
             <a href="http://127.0.0.1:5500/cafe.html#contacts">contacts</a>
             <a href="http://127.0.0.1:5500/cafe.html#blogs">blogs</a>
         </div>
-        <div class="credit">created by <span>Kavya Aggarwal,Keshav Kinger,Khushbu</span> | all rights reserved</div>
+        <div class="credit">created by <span>Kavya Aggarwal,Keshav Kinger,Livanshi</span> | all rights reserved</div>
     </section>
     <!-- footer section end-->
 
