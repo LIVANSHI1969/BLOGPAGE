@@ -77,7 +77,7 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
-                    <p>Ladakh is a cold desert in India. It lies in the Great Himalayas, on the eastern side of Jammu and Kashmir. It has the mighty Karakoram Range in the North and in the south, it is bound by the Zanskar mountains. Several rivers flow
+                    <p>Ladakh is a cold desert in India. It lies in the Great Himalayas, on the eastern side of Jammuu and Kashmir. It has the mighty Karakoram Range in the North and in the south, it is bound by the Zanskar mountains. Several rivers flow
                         through Ladakh.
                     </p>
                     <details>
