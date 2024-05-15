@@ -56,7 +56,7 @@ DOCTYPE html>
                 <img style="border-radius: 5px;" src="https://c1.wallpaperflare.com/preview/220/612/59/spiti-himachal-pradesh-india-himalayas.jpg" alt="">
             </div>
             <div class="content">
-                <h3>what makes your trip more memorable with us</h3>
+                <h3>what makes your trip mores memorable with us</h3>
                 <details>
                 <summary><a class="btn">read more</a></summary>
 
