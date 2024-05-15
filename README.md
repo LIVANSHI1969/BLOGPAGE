@@ -90,7 +90,7 @@ In the past, Ladakh gained importance from its strategic location at the crossro
             </div>
             <div class="box">
                 <div class="image">
-                    <img style="margin-left: 21px; margin-top: 25px; border-radius: 0%;" src="https://c1.wallpaperflare.com/preview/274/509/162/sunrise-sarchu-ladakh-leh.jpg" alt="">
+                    <img style="margin-left: 22px; margin-top: 25px; border-radius: 0%;" src="https://c1.wallpaperflare.com/preview/274/509/162/sunrise-sarchu-ladakh-leh.jpg" alt="">
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
