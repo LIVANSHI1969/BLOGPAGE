@@ -92,7 +92,7 @@ section {
 
     border-bottom: var(--border);
     position: fixed;
-    top: 0;
+    top: 0.1;
     left: 0;
     right: 0;
     z-index: 1001;
