@@ -15,9 +15,11 @@
     text-decoration: none;
     text-transform: capitalize;
     transition: .2s linear;
+ main
 }
 
 html {
+
 
     scroll-behavior: smooth;
 }
@@ -72,7 +74,7 @@ section {
 }
 
 .btn {
-    margin-top: 1.2rem;
+    margin-top: 1.21rem;
     display: inline-block;
 
     color: #fff;
@@ -512,7 +514,7 @@ section {
 }
 
 .footer .links a:hover {
-    background: var(--main-color);
+    background: var(--main-colour);
 }
 
 .footer .credit {

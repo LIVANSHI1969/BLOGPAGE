@@ -56,7 +56,7 @@ DOCTYPE html>
                 <img style="border-radius: 5px;" src="https://c1.wallpaperflare.com/preview/220/612/59/spiti-himachal-pradesh-india-himalayas.jpg" alt="">
             </div>
             <div class="content">
-                <h3>what makes your trip more memorable with us</h3>
+                <h3>what makes your trip mores memorable with us</h3>
                 <details>
                 <summary><a class="btn">read more</a></summary>
 
@@ -77,6 +77,8 @@ DOCTYPE html>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
 
+
+
                    </details>
                 </div>
             </div>
@@ -86,10 +88,12 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
+
                     <p>Manali is all about the open valley with an deodard and the pine forest cover, main water source, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, and
                         there also many spiritual retreats that call for a visit.</p>
                     <details>
                 <summary><a class="btn">Read More</a></summary>
+
 
                    </details>
  
@@ -101,7 +105,7 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">SHIMLA</a>
-                    <p>Evergreen forests, rolling valleys, breathtaking lakes and the pleasant Shimla weather are only a few reasons that lend this hill station a unique charm. No doubt, the places to visit in Shimla will leave you with memories of a lifetime.</p>
+
                     <details>
                 <summary><a class="btn">read more</a></summary>
 
@@ -126,7 +130,7 @@ DOCTYPE html>
             </div>
             <div class="box">
                 <img src="" alt="" class="quote">
-                <p>where the mountains whisper tales of wanderlust.</p>
+                <p>where the mountais whisper tales of wanderlust.</p>
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPPdP2ekkvYkeDWHwh0ZKp6XdnRagfqIQjw&usqp=CAU" class="user" alt="">
                 <h3>Mahatma Gandhi</h3>
                 
