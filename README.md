@@ -179,7 +179,7 @@ DOCTYPE html>
             <a href="http://127.0.0.1:5500/cafe.html#contacts">contacts</a>
             <a href="http://127.0.0.1:5500/cafe.html#blogs">blogs</a>
         </div>
-        <div class="credit">created by <span>Kavya Aggarwal,Keshav King,Livanshi</span> | all rights reserved</div>
+        <div class="credit">created by <span>Kavya Aggarwal,Keshav Kinger,Livanshi</span> | all rights reserved</div>
     </section>
     <!-- footer section end-->
 
