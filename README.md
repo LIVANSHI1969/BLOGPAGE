@@ -97,7 +97,7 @@ DOCTYPE html>
             </div>
             <div class="box">
                 <div class="image">
-                    <img style="margin-left: 21px; margin-top: 25px; border-radius: 0%;"  src="https://c1.wallpaperflare.com/preview/871/703/646/christ-church-religion-shimla.jpg" alt="">
+                    <img style="margin-left: 21px; margin-top: 25px; border-radius: 1%;"  src="https://c1.wallpaperflare.com/preview/871/703/646/christ-church-religion-shimla.jpg" alt="">
                 </div>
                 <div class="content">
                     <a href="#" class="title">SHIMLA</a>
