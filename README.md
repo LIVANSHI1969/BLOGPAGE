@@ -68,7 +68,7 @@ DOCTYPE html>
     <!-- about section ends -->
     <!-- blogs section starts -->
     <section class="blogs" id="blogs">
-        <h1 class="heading"> <span>hill stations</span></h1>
+        <h1 class="heading"> <span>hill  stations</span></h1>
         <div class="box-container">
             <div class="box">
                 <div class="image">
