@@ -140,7 +140,7 @@ DOCTYPE html>
             </div>
         </div>
     </section>
-    <!-- review section end -->
+    <!-- review section ended -->
 
     <!-- contact section starts -->
     <section class="contact" id="contact">
