@@ -72,7 +72,7 @@ DOCTYPE html>
         <div class="box-container">
             <div class="box">
                 <div class="image">
-                    <img style="margin-left: 21px; margin-top: 25px; border-radius: 0%;" src="https://c4.wallpaperflare.com/wallpaper/61/316/24/clouds-lake-rain-india-wallpaper-preview.jpg" alt="">
+                    <img style="margin-left: 21px; margin-top: 26px; border-radius: 0%;" src="https://c4.wallpaperflare.com/wallpaper/61/316/24/clouds-lake-rain-india-wallpaper-preview.jpg" alt="">
                 </div>
                 <div class="content">
                     <a href="#" class="title">LADAKH</a>
@@ -88,6 +88,12 @@ DOCTYPE html>
                 </div>
                 <div class="content">
                     <a href="#" class="title">MANALI</a>
+
+                    <p>Manali is all about the open valley with an deodard and the pine forest cover, main water source, freshwater streams and peaks perennially covered with snow making it a perfect place to unwind and recharge. Not only does it have some, fine staying places, and
+                        there also many spiritual retreats that call for a visit.</p>
+                    <details>
+                <summary><a class="btn">Read More</a></summary>
+
 
                    </details>
  
@@ -138,15 +144,15 @@ DOCTYPE html>
             </div>
         </div>
     </section>
-    <!-- review section end -->
+    <!-- review section ended -->
 
     <!-- contact section starts -->
     <section class="contact" id="contact">
         <h1 class="heading"><span>contact</span></h1>
         <div class="row">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1151289.26792926!2d76.7411213727786!3d31.929347548810345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390453c367f901f7%3A0x7cfe04c5564b7725!2sHimachal%20Pradesh!5e0!3m2!1sen!2sin!4v1696908531193!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1151289.26792926!2d76.7411213727786!3d31.929347548810345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390453c367f901f7%3A0x7cfe04c5564b7725!2sHimachal%20Pradesh!5e0!3m2!1sen!2sin!4v1696908531193!5m2!1sen!2sin" width="601" height="451" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             <form action="">
-                <h3>get in more touch with Himachal Pradesh</h3>
+                <h3>Get in more touch with Himachal Pradesh</h3>
                 <div class="inputbox">
                     <span class="fas fa-user"></span>
                     <input type="text" placeholder="name">
@@ -164,7 +170,7 @@ DOCTYPE html>
         </div>
 
     </section>
-    <!-- contact section end-->
+    <!- contact section end->
 
     <!-- footer section starts -->
     <section class="footer">
